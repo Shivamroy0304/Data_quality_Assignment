@@ -1,10 +1,10 @@
-# 📚 Project Index - Workflow Engine
+# Project Index - Workflow Engine
 
 **Quick Navigation Guide for the Complete Workflow Engine Implementation**
 
 ---
 
-## 🚀 Getting Started (Start Here!)
+##  Getting Started (Start Here!)
 
 1. **[README.md](README.md)** - Main project documentation
    - Installation instructions
@@ -69,7 +69,7 @@
 
 ---
 
-## 🧪 Testing & Examples
+## Testing & Examples
 
 - **[test_engine.py](test_engine.py)** - Integration tests
   - Test 1: Basic linear graph
@@ -169,12 +169,12 @@
 
 ---
 
-## 📊 Project Structure
+##  Project Structure
 
 ```
 Tradence/
 │
-├── 📖 Documentation (7 files, 2,549 lines)
+├── Documentation (7 files, 2,549 lines)
 │   ├── README.md              # Main docs (START HERE)
 │   ├── ARCHITECTURE.md        # System design
 │   ├── API_REFERENCE.md       # API documentation
@@ -183,7 +183,7 @@ Tradence/
 │   ├── QUICKREF.md            # Quick reference
 │   └── PROJECT_COMPLETE.md    # Completion status
 │
-├── 💻 Core Implementation (8 files, 1,394 lines)
+├──  Core Implementation (8 files, 1,394 lines)
 │   ├── app/
 │   │   ├── main.py            # FastAPI app (400 lines)
 │   │   ├── core/
@@ -197,11 +197,11 @@ Tradence/
 │   │
 │   └── run.py                 # Entry point
 │
-├── 🧪 Tests & Examples (2 files, ~600 lines)
+├──  Tests & Examples (2 files, ~600 lines)
 │   ├── test_engine.py         # Integration tests
 │   └── examples.py            # Extension examples
 │
-└── 🛠️ Configuration (4 files)
+└── Configuration (4 files)
     ├── requirements.txt       # Dependencies
     ├── Makefile              # Commands
     ├── quickstart.sh         # Setup script
@@ -210,7 +210,7 @@ Tradence/
 
 ---
 
-## 🎯 Quick Start Paths
+## Quick Start Paths
 
 ### Path 1: Just Want to Run It?
 1. Read: [QUICKREF.md](QUICKREF.md)
@@ -243,7 +243,7 @@ Tradence/
 
 ---
 
-## 🔍 Find Specific Topics
+## Find Specific Topics
 
 ### Graph Engine Concepts
 - **Graph, Node, Edge classes:** [app/core/graph.py](app/core/graph.py)
@@ -274,7 +274,7 @@ Tradence/
 
 ---
 
-## 📈 Code Statistics
+##  Code Statistics
 
 - **Total Files:** 23 files
 - **Python Code:** 1,394 lines
@@ -284,7 +284,7 @@ Tradence/
 
 ---
 
-## ✅ Completion Status
+## Completion Status
 
 ✅ **Core Engine** - Fully implemented
 ✅ **Tool Registry** - Fully implemented
@@ -297,7 +297,7 @@ Tradence/
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### Understanding the System
 1. Start: [README.md](README.md)
@@ -317,7 +317,7 @@ Tradence/
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 1. ✅ **Read** [README.md](README.md) for overview
 2. ✅ **Install** dependencies: `pip install -r requirements.txt`
