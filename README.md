@@ -238,17 +238,17 @@ curl -X GET "http://localhost:8000/graph/state/{run_id}"
 
 ## What's Implemented
 
-✅ Core graph engine with nodes and edges
-✅ State management and flow
-✅ Conditional branching
-✅ Looping support with iteration tracking
-✅ Tool registry for extensibility
-✅ FastAPI REST endpoints
-✅ In-memory storage (easily extensible to database)
-✅ Complete execution logging
-✅ Data quality pipeline example
-✅ Error handling and validation
-✅ API documentation (Swagger/ReDoc)
+ Core graph engine with nodes and edges
+ State management and flow
+ Conditional branching
+ Looping support with iteration tracking
+ Tool registry for extensibility
+ FastAPI REST endpoints
+ In-memory storage (easily extensible to database)
+ Complete execution logging
+ Data quality pipeline example
+ Error handling and validation
+ API documentation (Swagger/ReDoc)
 
 ## What Could Be Improved (with more time)
 
